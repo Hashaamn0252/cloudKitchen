@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "302426881726",
+    "firebase_url": "https://fueladjustment-b066d-default-rtdb.firebaseio.com",
+    "project_id": "fueladjustment-b066d",
+    "storage_bucket": "fueladjustment-b066d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302426881726:android:12ed4a087b5e940e5d28ef",
+        "android_client_info": {
+          "package_name": "com.example.fuel_adjustment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302426881726-8hld74nmh8lp2j37qpngg6lu90sf5vco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fuel_adjustment",
+            "certificate_hash": "a784d25a401e3e9d20419f6ee3086e291f8149b4"
+          }
+        },
+        {
+          "client_id": "302426881726-bb2g9goakrmkouie0ddet1khtkpqvelo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_Ni2P_Khqr5KlhK6QebDSX27OpA5k7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302426881726-bb2g9goakrmkouie0ddet1khtkpqvelo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302426881726-qarah3cjrt9ls3bhmk21hqvk479e9p0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mtp.aarlms"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302426881726:android:c17c45043bb81b905d28ef",
+        "android_client_info": {
+          "package_name": "com.example.importico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302426881726-2sn3fnih1nnagq4bfhtq76u3sevj21l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.importico",
+            "certificate_hash": "a784d25a401e3e9d20419f6ee3086e291f8149b4"
+          }
+        },
+        {
+          "client_id": "302426881726-bb2g9goakrmkouie0ddet1khtkpqvelo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_Ni2P_Khqr5KlhK6QebDSX27OpA5k7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302426881726-bb2g9goakrmkouie0ddet1khtkpqvelo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302426881726-qarah3cjrt9ls3bhmk21hqvk479e9p0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mtp.aarlms"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302426881726:android:5ed391a23fca3de85d28ef",
+        "android_client_info": {
+          "package_name": "com.mtp.aarlms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302426881726-bb2g9goakrmkouie0ddet1khtkpqvelo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_Ni2P_Khqr5KlhK6QebDSX27OpA5k7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302426881726-bb2g9goakrmkouie0ddet1khtkpqvelo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302426881726-qarah3cjrt9ls3bhmk21hqvk479e9p0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mtp.aarlms"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302426881726:android:c6a66daf1b3853b45d28ef",
+        "android_client_info": {
+          "package_name": "com.mtp.cloudkitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302426881726-bb2g9goakrmkouie0ddet1khtkpqvelo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_Ni2P_Khqr5KlhK6QebDSX27OpA5k7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302426881726-bb2g9goakrmkouie0ddet1khtkpqvelo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302426881726-qarah3cjrt9ls3bhmk21hqvk479e9p0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mtp.aarlms"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302426881726:android:ddac7065db2c11dd5d28ef",
+        "android_client_info": {
+          "package_name": "com.stylemixthemes.masterstudyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302426881726-bb2g9goakrmkouie0ddet1khtkpqvelo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_Ni2P_Khqr5KlhK6QebDSX27OpA5k7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302426881726-bb2g9goakrmkouie0ddet1khtkpqvelo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302426881726-qarah3cjrt9ls3bhmk21hqvk479e9p0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mtp.aarlms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
